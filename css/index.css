@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Franklin');
+
+body {
+  background-color: #EDEDED;
+}
+
+.container-fluid{
+
+  background-color: /*#EDEDED*//*#2A363B/*/#E3E3EB;
+}
+
+.container-main{
+  background-color: #ffff;
+  width: 100%;
+  height: auto;
+  max-width: 1000px;
+  /*color: white;*/
+  border: 1px dashed white;
+  padding-left: 1.3%;
+  margin-left: 8.5%;
+  margin-top: 2%;
+
+}
+
+#content h2 {
+  font-size: 20px;
+  margin-top: 4px;
+  font-family: 'Libre Franklin', sans-serif;
+
+}
+
+#content h3 {
+  font-size: 17px;
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Libre Franklin', sans-serif;
+  color: #00548C;
+}
+
+#content h4 {
+  font-size: 13px;
+  font-family: 'Libre Franklin', sans-serif;
+
+}
+
+#content ul {
+  font-family: 'Libre Franklin', sans-serif;
+}
+
+#content li {
+  margin-top: 5px;
+  font-size: 13px;
+}
+
+#content hr {
+  padding: 0px;
+  margin: 15px;
+  color: #062140 !important;
+  font-size: 5px !important;
+}
+
+.dev-name {
+  width: auto;
+  height: 150px;
+
+}
+.dev-name h1{
+  padding-top: 30px;
+  margin-left: 20px;
+  margin-bottom: 0px !important;
+  padding-bottom: 0px !important;
+  font-family: 'Libre Franklin', sans-serif;
+
+}
+.dev-name h3 {
+  margin-left: 20px;
+  font-size: 17px;
+  padding: 0px;
+  margin-top: 1px;
+  font-family: 'Libre Franklin', sans-serif;
+  color: #00548C;
+}
+.profile-photo {
+
+  max-width: 100px;
+  /*height: 110px;*/
+  height: auto;
+  border: 1px solid #ddd;
+  background-color: white;
+  border-radius: 10px;
+  padding: 5px;
+  float: left;
+  margin-top: 5px;
+  margin-right: 5px;
+
+}
+
+.profile-photo:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+.ribbon {
+  margin-top: -12%;
+  margin-left: 23%;
+}
+
+.flip-ribbon {
+  width: 50px;
+  height: 40px;
+  float: left;
+  margin-top: -1.5%;
+  margin-left: -2%;
+}
+
+/*#head-col-1 h1 {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+
+}*/
+.no-style-list {
+  list-style-type: none;
+  font-family: 'Libre Franklin', sans-serif;
+}
+.no-style-list li {
+  margin: 5px;
+  padding: 5px;
+}
+.no-style-list p {
+  margin-left: 80%;
+  margin-top: -3%;
+}
+.no-style-list a {
+  color: white;
+}
+.fas, .fab {
+  margin-left: -1%;
+  margin-right: 2%;
+  font-size: 20px;
+}
+
+.l-sd-info {
+  border: 1px solid white;
+  width: 350px !important;
+  height: auto;
+  position: relative;
+  background-color: #062140;
+  color: white;
+  margin-left: -3px !important;
+  /*margin-bottom: 10px;*/
+}
